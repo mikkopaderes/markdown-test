@@ -16,6 +16,7 @@
     - [deserialize](#deserialize)
 - [Daux.Core.Store](#dauxcorestore)
   - [Functions](#functions-1)
+    - [batch](#batch)
     - [delete](#delete-1)
     - [getAll](#getall)
     - [get](#get)
